@@ -1,5 +1,5 @@
 # SkullFace
-A Snapchat AR lens/filter to attaches a skull to your head
+A Snapchat AR lens/filter that attaches a skull to your head
 ![Alt text](2021-07-29_22-14-31.png?raw=true "Title")
 ![Alt text](2021-07-29_22-14-40.png?raw=true "Title")
 
